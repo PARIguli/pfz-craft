@@ -1,0 +1,1 @@
+{"name":"pfz-craft-portfolio","version":"1.0.0","private":true,"type":"module","scripts":{"check":"node --check public/app.js && node --check public/admin.js && node --check public/backend.js"}}
